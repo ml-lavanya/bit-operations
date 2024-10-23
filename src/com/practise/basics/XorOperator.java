@@ -1,4 +1,4 @@
-package com.practise;
+package com.practise.basics;
 
 public class XorOperator {
     public static void main(String[] args) {

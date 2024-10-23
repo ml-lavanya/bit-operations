@@ -1,4 +1,4 @@
-package com.practise;
+package com.practise.basics;
 
 public class NotOperation {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.practise;
+package com.practise.basics;
 
 public class AndOperator {
     public static void main(String[] args) {

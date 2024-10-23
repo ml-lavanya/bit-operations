@@ -1,4 +1,4 @@
-package com.practise;
+package com.practise.challenges;
 
 class CountSetBit {
     private static int helper(int n) {
