@@ -19,6 +19,9 @@ public class repeat {
 
     }
     public static void main(String[] args) {
-        System.out.println("binary sum is" + addBinary("111", "101"));
+        // System.out.println("binary sum is" + addBinary("111", "101"));
+        int i=5;
+        System.out.println(~i);
+
     }
 }
